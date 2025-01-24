@@ -16,5 +16,6 @@ int main(){
 	s=u*t+0.5*a*pow(t,2);
 	cout<<"The final velocity (v) is "<<v<<endl;
 	cout<<"The distance traversed (s) is "<<s<<endl;
+	return 0;
 }
 
